@@ -63,9 +63,5 @@ Through this project, I learned:
 Data cleaning techniques
 EDA workflow
 Data visualization
-Extracting business insights from data
-
-👨‍💻 Author:
-R.karthik
-Aspiring Data Analyst
+Extracting business insights from data.
 
